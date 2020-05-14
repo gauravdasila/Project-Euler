@@ -12,5 +12,3 @@ function findFactorial(num) {
    }
    return product;
 }
-
-latticePath(20, 20);
